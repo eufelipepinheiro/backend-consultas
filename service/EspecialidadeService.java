@@ -1,6 +1,6 @@
-package com.fiap.ec.backend_consultas.service;
-import com.fiap.ec.backend_consultas.model.Especialidade;
-import com.fiap.ec.backend_consultas.repository.EspecialidadeRepository;
+package com.example.backend_consultas.service;
+import com.example.backend_consultas.model.Especialidade;
+import com.example.backend_consultas.repository.EspecialidadeRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 @Service
